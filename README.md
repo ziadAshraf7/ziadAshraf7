@@ -3,11 +3,9 @@
 <img align = "right" width="400" alt = "coding" src = "https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadashraf7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadashraf7" /> </p>
 
-- 🔭 I’m currently working on **redux project**
+- 🔭 I’m currently working on **Blog Website using Nextjs**
 
-- 🌱 I’m currently learning **Next js**
-
-- 💬 Ask me about **react**
+- 💬 Ask me about **react**,**Nextjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
